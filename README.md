@@ -61,7 +61,7 @@ GKE's best practices with respect to security.
     ```
 
 
-### Aduit Logging
+### Audit Logging
 
 1.  Enable system-level audit logs:
 
